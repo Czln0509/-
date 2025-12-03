@@ -1,0 +1,1 @@
+基于EfficientNetV2模型改进的花卉识别，模型为EfficientNetV2-s小模型，模型准确率优秀
